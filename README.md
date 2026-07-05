@@ -34,51 +34,45 @@ struct iOSDeveloper {
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilvilking&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilvilking&layout=compact&langs_count=6&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilvilking&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilvilking&layout=compact&langs_count=6&theme=radical&hide_border=true" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vilvilking&theme=radical" alt="GitHub Streak" />
-</p>
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Apple" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Objective--C-3A95E3?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 ## Featured Projects
 
 <p align="center">
   <a href="https://github.com/vilvilking/ImageDemo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vilvilking&repo=ImageDemo&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vilvilking&repo=ImageDemo&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/vilvilking/SomeDemo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vilvilking&repo=SomeDemo&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vilvilking&repo=SomeDemo&theme=radical&hide_border=true" />
   </a>
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vilvilking&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vilvilking&label=Profile%20Views&color=2196F3&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 <div align="center">
-  <b>Contact Me</b><br><br>
-  <a href="https://github.com/vilvilking">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+[![GitHub followers](https://img.shields.io/github/followers/vilvilking?style=social)](https://github.com/vilvilking)
+[![GitHub stars](https://img.shields.io/github/stars/vilvilking?style=social)](https://github.com/vilvilking)
+
+**Contact Me**
+
+<a href="https://github.com/vilvilking">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=vilvilking&color=2196F3&style=flat-square&label=Profile+Views)
+
 </div>
