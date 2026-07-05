@@ -1,4 +1,4 @@
-﻿# Hello, I'm zone / vilvilking
+# Hello, I'm zone / vilvilking
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=iOS+%E5%BC%80%E5%8F%91%E6%94%BB%E5%9F%8E%E7%8B%AE;Swift+%26+Objective-C+%E7%88%B1%E5%A5%BD%E8%80%85;iOS+Developer+from+Shenzhen" alt="Typing SVG" />
